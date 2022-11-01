@@ -22,4 +22,3 @@ button.addEventListener("click", function(){
     displayPassword.textContent = password
 })
 
-console.log(password)
