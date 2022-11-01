@@ -35,6 +35,7 @@ button {
     background-color: #10B981;
     color: white;
     font-family: 'Inter', sans-serif;
+    cursor: pointer;
 }
 
 .gen-box {
