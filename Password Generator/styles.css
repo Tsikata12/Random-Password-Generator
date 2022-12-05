@@ -41,7 +41,7 @@ button {
 .gen-box {
     background-color: #1F2937;
     padding: 4%;
-    margin: 10% 35%;
+    margin: 10% 30%;
     min-width: 400px;
 }
 
@@ -55,5 +55,10 @@ button {
     background-color: #273549;
     padding: 2% 4%;
     border-radius: 5px;
+    color: #55F991;
+}
+
+#generate:active {
+    background-color: #grey;
     color: #55F991;
 }
